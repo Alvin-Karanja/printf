@@ -12,7 +12,7 @@ DESCRIPTION
 	FORMAT controls the output
 
 EXAMPLES
-	_print("Hola mundo %d", n);
+	_print("Hi guys %d", n);
 
 AUTHORS
 	Made by Alvin Karanja and Charles Osango
