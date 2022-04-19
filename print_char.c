@@ -1,5 +1,6 @@
 #include <stdarg.h>
 #include "main.h"
+
 /**
  * print_char - print char
  * @c: valist
