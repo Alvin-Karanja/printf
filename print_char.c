@@ -6,6 +6,7 @@
  * @c: valist
  * Return: 1
  */
+
 int print_char(va_list c)
 {
 	char aux;
