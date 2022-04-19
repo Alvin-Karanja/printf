@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include "main.h"
-
 /**
  * print_int - prints a integer
  * @i: the integer
